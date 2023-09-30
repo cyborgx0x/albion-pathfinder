@@ -1,0 +1,3 @@
+[submodule "pathfinder"]
+	path = pathfinder
+	url = https://github.com/AaronHe7/pathfinder
